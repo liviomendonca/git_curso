@@ -25,3 +25,5 @@ git log
 ```
 
 ### Olá amigos (o livio eh gay)
+
+explicando proteção de histórico
