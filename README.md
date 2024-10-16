@@ -23,3 +23,5 @@ Verificando o estado da pasta de trabalho
 git status
 git log
 ```
+
+### Olá amigos (o livio eh gay)
