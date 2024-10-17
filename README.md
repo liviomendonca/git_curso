@@ -6,6 +6,13 @@
 git --version
 ```
 
+e para acessar o manual
+
+```
+git --help
+```
+
+
 ## intro
 
 - Por que Git?
