@@ -6,13 +6,6 @@
 git --version
 ```
 
-e para acessar o manual
-
-```
-git --help
-```
-
-
 ## intro
 
 - Por que Git?
@@ -34,4 +27,7 @@ git log
 ### Olá amigos (o livio eh gay)
 
 explicando proteção de histórico
-dasddasdad
+
+### Salve (o dosualdo eh gay com força)
+
+Boa quinta a todos
